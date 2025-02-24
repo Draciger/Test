@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="J352f1KdS9DcAqidfXdz">
-    <mxGraphModel>
+    <mxGraphModel dx="1095" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-1" target="Ola6u9-qmfGobtpV7WbB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-1" target="Ola6u9-qmfGobtpV7WbB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-1" value="Pocket Chef Application (PBS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-1" target="Ola6u9-qmfGobtpV7WbB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="80" as="sourcePoint" />
+            <mxPoint x="697" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-2" value="&lt;div&gt;&lt;u&gt;AI &amp;amp; Large Language model personalization&lt;/u&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 220%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;User Preference Learning&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Allergen, Budget &amp;amp; Seasonal Items&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AI integration&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="119" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-7" value="&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;u&gt;Core Application&lt;/u&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 220%;&quot;&gt;&lt;li&gt;Themes &amp;amp; UI Customization&lt;/li&gt;&lt;li&gt;Module (Speech / Text) Interaction&lt;/li&gt;&lt;li&gt;Accessibility features&lt;/li&gt;&lt;li&gt;Core UI &amp;amp; Navigation&lt;/li&gt;&lt;li&gt;User Interface&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-9" target="Ola6u9-qmfGobtpV7WbB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-9" value="&lt;div style=&quot;line-height: 220%;&quot;&gt;&lt;div&gt;Lessons Learned &amp;amp; Closure Docs&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Security &amp;amp; Compliance Records&lt;/li&gt;&lt;li&gt;User &amp;amp; Admin Manuals&lt;/li&gt;&lt;li&gt;Project Plans &amp;amp; Reports&lt;/li&gt;&lt;li&gt;Requirements Documentation&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="119" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-7" target="Ola6u9-qmfGobtpV7WbB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-12" value="&lt;div style=&quot;line-height: 220%;&quot;&gt;Infrastructure &amp;amp; Deployment&lt;div&gt;&lt;ul&gt;&lt;li&gt;Cloud &amp;amp; Server environment&lt;/li&gt;&lt;li&gt;CI/CD Pipeline&lt;/li&gt;&lt;li&gt;Environment Configurations&lt;/li&gt;&lt;li&gt;Deployment Scripts &amp;amp; Automation&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="Ola6u9-qmfGobtpV7WbB-13" target="Ola6u9-qmfGobtpV7WbB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ola6u9-qmfGobtpV7WbB-13" value="&lt;div style=&quot;line-height: 220%;&quot;&gt;Backend Services &amp;amp; Module for real-time inventory&lt;div&gt;&lt;ul&gt;&lt;li&gt;API Endpoints (Users, Inventory, Recipe)&lt;/li&gt;&lt;li&gt;Database (Procedures, Data Logic)&lt;/li&gt;&lt;li&gt;Authentication &amp;amp; Security&amp;nbsp; (Encryption, 2FA (Two Factor Authentication&lt;/li&gt;&lt;li&gt;Inventory API (Push &amp;amp; Pull)&lt;/li&gt;&lt;li&gt;Substitutions &amp;amp; Alternatives&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="395" y="560" width="415" height="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
